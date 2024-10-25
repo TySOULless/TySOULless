@@ -32,7 +32,7 @@ Cloud Platforms: Mastering Azure, AWS, and beyond.
 Game Development Frameworks: Bringing creative ideas to life.
 
 
-💞️ Looking to Collaborate
+, 😁 Looking to Collaborate
 
 I'd love to team up on:
 
